@@ -1,0 +1,6 @@
+div:hover {transform: scale(1.4); opacity: 0.2;}
+div { width: 70%; height: 100px; margin:  50px auto; background: linear-gradient(53deg,#ccfffc, #ffcccf);}
+#navbar {position: fixed;top: 0px;left: 0px;width: 100%;background-color: #A7A7A7;}
+nav ul {margin: 0px;padding: 5px 0px 5px 30px;}
+nav li {display: inline;margin-right: 20px;}
+a:-webkit-any-link:hover {color: #00FFFF;}
